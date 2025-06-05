@@ -1,0 +1,5 @@
+C:\Users\alex2\AppData\Local\Temp\rider-publish1286597468298082450\Final.exe
+C:\Users\alex2\AppData\Local\Temp\rider-publish1286597468298082450\Final.dll
+C:\Users\alex2\AppData\Local\Temp\rider-publish1286597468298082450\Final.deps.json
+C:\Users\alex2\AppData\Local\Temp\rider-publish1286597468298082450\Final.runtimeconfig.json
+C:\Users\alex2\AppData\Local\Temp\rider-publish1286597468298082450\Final.pdb
